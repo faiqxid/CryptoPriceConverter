@@ -1,0 +1,27 @@
+# .gitignore
+
+# Node.js
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+lib/
+vendor/
+
+# Editor files
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
