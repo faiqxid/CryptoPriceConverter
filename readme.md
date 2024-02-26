@@ -13,7 +13,7 @@ npm i crypto-price-converter-xid
 ## USAGE
 
 ```javascript
-const convertCryptoCurrencyPrice = require('crypto-price-converter');
+const convertCryptoCurrencyPrice = require('crypto-price-converter-xid');
 
 convertCryptoCurrencyPrice('BTC', 'USD')
   .then(price => console.log(`1 BTC is currently worth $${price} USD`))
