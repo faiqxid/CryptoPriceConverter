@@ -7,7 +7,7 @@ A simple npm module to convert cryptocurrency prices between different currencie
 You can install the module via npm:
 
 ```bash
-npm install crypto-price-converter
+npm i crypto-price-converter-xid
 ```
 
 ## USAGE
