@@ -7,13 +7,13 @@ A simple npm module to convert cryptocurrency prices between different currencie
 You can install the module via npm:
 
 ```bash
-npm install crypto-price-converter
+npm i crypto-price-converter-xid
 ```
 
 ## USAGE
 
 ```javascript
-const convertCryptoCurrencyPrice = require('crypto-price-converter');
+const convertCryptoCurrencyPrice = require('crypto-price-converter-xid');
 
 convertCryptoCurrencyPrice('BTC', 'USD')
   .then(price => console.log(`1 BTC is currently worth $${price} USD`))
