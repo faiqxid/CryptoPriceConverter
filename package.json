@@ -1,6 +1,6 @@
 {
   "name": "crypto-price-converter-xid",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple npm module to convert cryptocurrency prices between different currencies.",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/faiqxid/crypto-price-converter-xid"
+    "url": "https://github.com/faiqxid/crypto-price-converter-xid.git"
   }
 }
